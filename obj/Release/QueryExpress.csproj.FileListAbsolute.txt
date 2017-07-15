@@ -1,0 +1,16 @@
+C:\Users\Matthew.Jones\Downloads\QExpress\bin\Release\QueryExpress.exe.config
+C:\Users\Matthew.Jones\Downloads\QExpress\bin\Release\QueryExpress.exe.manifest
+C:\Users\Matthew.Jones\Downloads\QExpress\bin\Release\QueryExpress.application
+C:\Users\Matthew.Jones\Downloads\QExpress\bin\Release\QueryExpress.exe
+C:\Users\Matthew.Jones\Downloads\QExpress\bin\Release\FastColoredTextBox.dll
+C:\Users\Matthew.Jones\Downloads\QExpress\bin\Release\FastColoredTextBox.xml
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.About.resources
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.ConnectForm.resources
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.ConnectingForm.resources
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.MainForm.resources
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.QueryForm.resources
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.csproj.GenerateResource.Cache
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.exe.manifest
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.application
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.exe
+C:\Users\Matthew.Jones\Downloads\QExpress\obj\Release\QueryExpress.csprojResolveAssemblyReference.cache
